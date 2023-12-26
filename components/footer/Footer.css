@@ -1,0 +1,141 @@
+.footer {
+    display: flex;
+   
+   }
+   .footer img{
+       margin: 48px 66% 0 45%;
+   }
+   .footer-main-container{
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+       margin-top: 47px;
+       border-top: 1px solid beige;
+       border-bottom: 1px solid beige;
+   }
+   .Aboutus{
+       margin-top: -20px;
+       width: 20%;
+       margin-left: 124px;
+   }
+   .Aboutus h3{
+       margin-left: 1px;
+       margin-top: 80px;
+   }
+   .Aboutus p{
+       margin-bottom: 76px;
+       color: rgb(111, 85, 85);
+       line-height: 1.8;
+   }
+   .Feature{
+       margin-top: -20px;
+       width: 20%;
+       margin-left: -153px; 
+   }
+   .Feature h3{
+       margin-left: 39px;
+       margin-top: 80px;
+   }
+   .Feature ul{
+        margin-bottom: 76px;
+    }
+   .Generallinks{
+       margin-top: -20px;
+       width: 20%;
+       margin-left: -153px;
+   }
+   .Generallinks h3{
+       margin-left: 38px;
+       margin-top: 80px;
+   }
+   .Generallinks ul{
+   margin-bottom: 76px;
+   }
+   .Helpful{
+       margin-top: -20px;
+       width: 20%;
+       margin-left: -153px;
+   }
+   .Helpful h3{
+       margin-left: 39px;
+       margin-top: 80px;
+   }
+   .Helpful ul{
+       margin-bottom: 76px;
+   }
+   .Feature li{
+       list-style: none;
+      
+   }
+   .Feature a{
+       text-decoration: none;
+       color: rgb(111, 85, 85);
+       line-height: 1.8;
+   }
+   .Generallinks li{
+       list-style: none;
+   }
+   .Generallinks a{
+       text-decoration: none;
+       color: rgb(111, 85, 85);
+       line-height: 1.8;
+   }
+   .Helpful li{
+       list-style: none;
+   }
+   .Helpful a{
+   
+       text-decoration: none;
+       color:rgb(111, 85, 85);
+       line-height: 1.8;
+   }
+   .Footer-Main-Icon-Box{
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+   }
+   .Footer-icons{
+       display: flex;
+       margin-left: 108px;
+   }
+   .Footer-icons img{
+       margin: 20px 5px 0px 17px;
+       width: 27px;
+       cursor: pointer;
+       height: 30px;
+       
+   }
+   .Footer-Images-Box{
+       margin-right: 64px;
+       margin-top: 20px;
+       cursor: pointer;
+   }
+   .rights{
+       margin-left: 30px;
+       margin-right: 90px;
+       width: 130px;
+   }
+   .copy_right{
+       margin-left: 30px;
+       margin-top: 27px;
+   }
+   .Footer-icons a{
+       margin-left: 7px;
+       margin-top: 25px;
+       color:rgb(18, 13, 13);
+       text-decoration: none;
+       font-size: large;
+   }
+   .rights{
+       margin-left: 10px;
+       margin-right: 90px;
+       width: 130px;
+       margin-top: 27px;
+       color:rgb(111, 85, 85);
+   }
+   #youtube{
+       width: 27px;
+       cursor: pointer;
+       height: 41px;
+       margin-top: 15px;
+   }

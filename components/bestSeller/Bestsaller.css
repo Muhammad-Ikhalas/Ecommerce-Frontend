@@ -1,0 +1,104 @@
+.Seller-Super-Parent{
+    margin-top: 50px;
+    background-color: #f6f6f6;
+    padding-bottom: 300px;
+    margin-top: -22px;
+    
+}
+/* .Parent-Best-Saller{
+    background: #000;
+    height: 30%;
+} */
+.Best-Saller-Image{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    margin-left: 50px;
+
+}
+
+.seller-common{
+    background-color: white;
+    padding: 20px;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: -100px;
+}
+
+.Best-Saller-Image img{
+   margin: 1px 4px 2px 9px;
+    background-color: white;
+    border-radius: 56%;
+
+ }
+.Best-Saller-header h1{
+    
+    margin-left: 140px;
+    padding-top: 20px;
+}
+.Best-Saller-header h5{
+    margin-top: -44px;
+    margin-left: 1278px;
+    padding-top: 20px;
+}
+.arrow-popular{
+    margin-left: 1342px;
+    margin-top: -60px;
+    margin-bottom: 12px;
+    /* margin-top: -1px; */
+    /* width: 33px; */
+    margin-bottom: 33px;
+ }
+    .arrow-popular img {
+        width: 23px;
+        margin-top: 19px;
+        margin-left: 8px;
+    }  
+    .seller-img4 img{
+        margin-left: 16px;
+        margin-top: 10px;
+    }
+    .seller-img2 img{
+        margin-top: 14px;
+        margin-left: -1px;
+    }
+    .seller-img5 img{
+        margin-top: 9px;
+       
+    }
+    .seller-img6 img{
+       margin-left: 0px;
+       
+    }
+    .seller-img6{
+        width: 110px;
+    }
+.Footerclass{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Seller-img-footer1 p{
+    margin-left: -1px;
+}
+.Seller-img-footer2 p{
+    margin-left: -35px;
+}
+.Seller-img-footer3 p{
+    margin-left: -19px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

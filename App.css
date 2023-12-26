@@ -1,0 +1,121 @@
+body {
+  overflow-x: hidden;
+}
+
+.main-parent-CSSContainerRule {
+  width: 100%;
+  background: none;
+  padding-bottom: 0%;
+  margin-top: -358%;
+  display: none;
+  position: fixed;
+}
+.refresh-main-container {
+  display: flex;
+  background-color: rgb(166 236 239);
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 5%;
+  width: 55%;
+  margin-left: 347px;
+}
+.Cross-img {
+  margin-left: 740px;
+  cursor: pointer;
+  margin-top: 19px;
+}
+.LOGO-refresh {
+  margin-left: -614px;
+  margin-top: 66px;
+}
+.refresh-main-container h6 {
+  margin-top: 20px;
+  margin-left: -493px;
+  font-size: 21px;
+  line-height: 0.5;
+}
+.LOGO-refresh span {
+  color: crimson;
+}
+.refresh-main-container h1 {
+  margin-top: -40px;
+  margin-left: -354px;
+  font-size: 29px;
+}
+.Refresh-para-class {
+  width: 85%;
+  margin-left: -473px;
+  color: gray;
+}
+.refresh-main-container p {
+  margin-left: 210px;
+  font-size: 20px;
+  line-height: 1.5;
+  margin-top: -10px;
+}
+.Headphone-img img {
+  width: 30%;
+  margin-top: -156px;
+  margin-left: 572px;
+  border-radius: 50%;
+}
+
+.refresh-main-container input {
+  margin-top: -86px;
+  /* margin-left: 467px; */
+  width: 325px;
+  padding-left: 15px;
+  height: 50px;
+  border: none;
+  margin-left: -389px;
+}
+.refresh-main-container button {
+  height: 53px;
+  margin-top: -53px;
+  border: none;
+  width: 128px;
+  cursor: pointer;
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 187 56 / var(--tw-bg-opacity));
+  margin-left: 81px;
+}
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+} */
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,64 @@
+.parent-div-checkout {
+  padding-bottom: 10%;
+  margin-left: 17%;
+  margin-top: -100px;
+  /* align-items: start; */
+}
+.parent-div-checkout h1 {
+  margin-left: 29%;
+  margin-top: 150px;
+}
+.checkout-login button {
+  margin-left: 100px;
+  margin-top: 76px;
+  width: 711px;
+  /* height: 30px; */
+  font-size: 18px;
+  padding: 13px;
+  margin-bottom: 45px;
+  border-radius: 4px;
+  border: none;
+  --tw-bg-opacity: 1;
+  --tw-text-opacity: 1;
+  background-color: rgb(255 187 56 / var(--tw-bg-opacity));
+  color: rgb(34 34 34 / var(--tw-text-opacity));
+  font-weight: bold;
+}
+.billing-details {
+  display: flex;
+  align-items: flex-end;
+  justify-content: left;
+  margin-left: 81px;
+  margin-top: -50px;
+  padding-top: 40px;
+}
+.checkout-inputbox {
+  margin-top: -9px;
+  padding: 13px;
+  margin-left: 26px;
+  width: 310px;
+}
+.checkout-p {
+  margin-left: 32px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.new-input {
+  width: 675px;
+}
+.checkout-checkbox input {
+  margin-left: 107px;
+  margin-top: 37px;
+}
+.checkout-para {
+  margin-top: -23px;
+  margin-left: 151px;
+}
+.checkout-footer-login h3 {
+  margin-left: 107px;
+  margin-top: 28px;
+}
+.checkout-footer-login input {
+  margin-left: 107px;
+  margin-top: 3px;
+}

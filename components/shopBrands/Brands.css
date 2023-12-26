@@ -1,0 +1,75 @@
+.brands-main-container{
+    background-color: #f6f6f6;
+    width: 100%;
+    padding-top: 5%;
+    position: absolute;
+    margin-top: -60px;
+    padding-bottom: 5%;
+}
+
+.brand-container{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.brand-container h3{
+    font-size: 25px;
+}
+
+.top-brand-container{
+    display: flex;
+    width: 100%;
+    
+}
+.bottom-brand-container{
+    display: flex;
+    width: 100%;
+}
+.brand{
+background-color: white;
+padding: 43px
+}
+
+.brand2{
+    margin-left: 2px;
+}
+
+.botomBrand{
+    padding: 51px;
+    margin-top: 2px;
+}
+.botomBrand2{
+    padding: 52px;
+    margin-top: 2px;
+}
+.botomBrand3{
+    padding: 32px;
+    margin-top: 2px;
+}
+
+.botomBrand4{
+    padding: 54px;
+    margin-top: 2px;
+}
+
+.botomBrand5{
+    padding: 39px;
+    margin-top: 2px;
+}
+.botomBrand6{
+    padding: 59px;
+    margin-top: 2px;
+}
+
+
+/* .portfolio{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.portfolio img{
+    width: 100%;
+    box-shadow: var(--shadow);
+    background-color: white;
+} */

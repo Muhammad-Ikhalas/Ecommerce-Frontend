@@ -1,0 +1,108 @@
+
+.main-section{
+    background-color: #f6f6f6;
+}
+
+.top-container{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-areas: 'showcase showcase top-box-a'
+                          'showcase showcase top-box-b'
+                       
+}
+
+.showcase{
+    grid-area: showcase;
+    min-height: 400px; 
+    /* background: rgba(0, 0, 0, 0.7) url('laptopp.jpeg'); */
+    background-size: cover;
+    background-blend-mode: darken;
+    background-position: center;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: var(--shadow);
+    margin-top: 25px;
+}
+
+/* .showcase h1{
+    font-size: 4rem;
+    margin-bottom: 0;
+    color: var(--light);
+}
+
+.showcase p{
+    font-size: 1.3rem;
+    margin-top: 0;
+    color: var(--light);
+} */
+
+.top-box{
+    background: var(--primary);
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    box-shadow: var(--shadow);
+    padding: 0.5rem;
+}
+
+/* .top-box .price{
+    font-size: 2.5rem;
+} */
+
+.top-box-a{
+    grid-area: top-box-a;
+    margin-top: 40px;
+}
+
+.top-box-b{
+    grid-area: top-box-b;
+}
+
+.showcase img{
+    width: 85%;
+    height: 98%;
+    margin-left: 158px;
+
+}
+
+.top-box-a img{
+    width: 72%;
+    height: 87%;
+    margin-right: 177px;
+    position: relative;
+    margin-top: -14px;
+}
+
+.top-box-b img{
+    width: 74%;
+    height: 100%;
+    margin-right: 182px;
+    position: relative;
+    margin-top: -56px;
+}
+
+.freeshipping img{
+    width: 78%;
+    height: 11%;
+    margin-left: 166px;
+    margin-top: 15px;
+    margin-bottom: 48px;
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  

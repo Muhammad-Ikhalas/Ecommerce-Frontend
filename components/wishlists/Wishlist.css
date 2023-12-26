@@ -1,0 +1,70 @@
+.wishlist-main-container   {
+    width: 76%;
+    margin-left: 176px;
+    padding-bottom: 350px;
+    padding-top: 25px;
+}
+.wishlist-main-container h1{
+    text-align: center;
+}
+
+
+.product-details{
+    display: flex;
+    border: 2px solid lightgray;
+    background-color: #f6f6f6;
+}
+.product-details h2{
+    padding-left: 23px;
+    padding-right: 102px;
+}
+.product-details h3{
+    padding-left: 136px;
+}
+
+.game-product{
+    display: flex;
+    border: 2px solid #e2dada;
+    margin-top: -2px;
+}
+.game-product img{
+    width: 100px;
+    padding-left: 10px;
+}
+
+.game-product h5{
+    padding-left: 50px;
+    margin-top: 33px;
+}
+
+.rounded-color{
+    width: 20px;
+    border-radius: 50%;
+    background-color:  #f3bc70;
+    height: 20px;
+    margin-top: 33px;
+    margin-left: 53px;
+}
+
+.game-product h6{
+    padding-left: 145px;
+    font-size: 15px;
+    color: #746464;
+}
+
+.quantity-state{
+    display: flex;
+    margin-left: 120px;
+}
+
+.quantity-state button{
+    width: 35px;
+    height: 20px;
+    margin-top: 35px;
+    margin-right: 5px;
+}
+
+.quantity-state p{
+    margin-top: 33px;
+    padding-right: 6px;
+}

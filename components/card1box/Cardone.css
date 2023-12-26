@@ -1,0 +1,161 @@
+.cardsone {
+  background-color: #f6f6f6;
+  margin-top: -22px;
+}
+
+.boxes {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  width: 85%;
+  margin-left: 120px;
+  margin-bottom: 60px;
+}
+
+.box {
+  background: var(--primary);
+  text-align: center;
+  padding: 1.5rem 2rem;
+  box-shadow: var(--shadow);
+}
+
+.cardsone h1 {
+  margin-left: 165px;
+  margin-bottom: -40px;
+  font-size: 27px;
+}
+
+.watch img {
+  width: 121%;
+  height: 100%;
+  margin-top: 26px;
+  margin-left: 11px;
+}
+
+.boxgame img {
+  width: 100%;
+  margin-top: 12px;
+}
+.boxrobot img {
+  width: 113%;
+  margin-top: 30px;
+}
+.boxdrown img {
+  width: 113%;
+  margin-top: -3px;
+}
+
+.boxgame {
+  background-color: white;
+  width: 65%;
+  margin-left: 42px;
+  margin-top: 50px;
+  padding-bottom: 37px;
+}
+
+.boxrobot {
+  background-color: white;
+  width: 65%;
+  margin-left: 15px;
+  margin-top: 50px;
+}
+
+.boxdrown {
+  background-color: white;
+  width: 65%;
+  margin-left: -11px;
+  margin-top: 50px;
+}
+
+.star-images {
+  display: flex;
+  width: 15px;
+  justify-content: space-between;
+  margin-left: 15px;
+  margin-top: 45px;
+  padding-left: 5px;
+}
+
+.box p {
+  font-weight: 500;
+}
+.box p:hover {
+  color: blue;
+}
+/* .box h3{
+    color: gray;
+    text-decoration: line-through;
+}
+
+.box h3 span{
+    color: red;
+    padding: 10px;
+} */
+
+.card-price {
+  display: flex;
+  position: absolute;
+  margin-top: -28px;
+  margin-left: 40px;
+}
+#gray-color {
+  color: gray;
+  text-decoration: line-through;
+  padding-right: 10px;
+}
+#red-color {
+  color: red;
+  padding: 0px;
+}
+
+.add-cards-btn button {
+  width: 11%;
+  height: 5%;
+  position: absolute;
+  margin-left: 15px;
+  margin-top: -10px;
+  --tw-bg-opacity: 1;
+  --tw-text-opacity: 1;
+  background-color: rgb(255 187 56 / var(--tw-bg-opacity));
+  color: rgb(34 34 34 / var(--tw-text-opacity));
+  border: none;
+  font-weight: bold;
+  display: none;
+}
+
+.cross-arrow img {
+  width: 21px;
+  margin-top: -328px;
+  margin-left: 79px;
+  position: absolute;
+  background-color: #f6f6f6;
+  padding: 8px;
+}
+.heart-icon img {
+  width: 28px;
+  position: absolute;
+  margin-top: -269px;
+  margin-left: 79px;
+  background-color: #f6f6f6;
+  padding: 4px;
+}
+
+.refresh-icon img {
+  width: 27px;
+  position: absolute;
+  margin-top: -212px;
+  margin-left: 79px;
+  background: #f6f6f6;
+  padding: 4px;
+}
+.add-cards-icon {
+  display: none;
+}
+
+.add-cards-btn img {
+  width: 16%;
+  position: absolute;
+  top: 19px;
+  z-index: 1;
+  left: -63px;
+}

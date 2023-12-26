@@ -1,0 +1,31 @@
+.main-container{
+    display: flex;
+    width: 100%;
+}
+.first-menu-bar{
+    width: 99%;
+    display: flex;
+    background: #262626;
+    height: 40px;
+    padding: 12px;
+    margin: -8px -8px 0 -8px;
+}
+
+.first-menu-bar img {
+    width: 11%;
+}
+
+.first-menu-bar span{
+    margin-right: 82%;
+}
+
+.first-menu-bar  button{
+    width: 93px;
+    height: 35px;
+    margin-top: 5px;
+    background: #6f9a37;
+    border-radius: 6px;
+    color: white;
+    outline: none;
+    border: none;
+}

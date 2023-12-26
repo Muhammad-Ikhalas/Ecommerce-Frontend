@@ -1,0 +1,90 @@
+.Popular-main-container span {
+  color: rgb(210, 49, 49);
+}
+.popular-parent {
+  background: #f6f6f6;
+  height: 40%;
+  padding-top: 100px;
+  padding-bottom: 135px;
+}
+.main-class-popular {
+  margin-left: 20px;
+}
+.Popular-main-container {
+  display: flex;
+}
+.First-block {
+  background: white;
+  margin-left: 47px;
+  border: 1px solid rgb(255, 252, 252);
+  width: 333px;
+  padding-right: 88px;
+  margin-bottom: 15px;
+}
+
+.Second-block {
+  background: white;
+  margin-left: 44px;
+  border: 1px solid rgb(255, 255, 255);
+  width: 323px;
+  padding-right: 123px;
+  margin-bottom: 15px;
+}
+.Third-block {
+  background: white;
+  margin-left: 40px;
+  border: 1px solid rgb(255, 255, 255);
+  width: 296px;
+  padding-right: 120px;
+  margin-right: 49px;
+  margin-bottom: 15px;
+}
+.product-name-popular {
+  margin-left: 100px;
+  margin-bottom: 20px;
+  margin-top: -44px;
+  margin-left: 105px;
+}
+.Popular-main-container img {
+  height: 60px;
+  margin-left: 36px;
+  margin-top: 10px;
+}
+.update-price {
+  margin-left: 145px;
+  margin-top: -11px;
+}
+.Second-block img {
+  height: 60px;
+  margin-left: 23px;
+  margin-top: 20px;
+}
+.Product-name-popular {
+  margin-left: 100px;
+  margin-bottom: 20px;
+  margin-top: -44px;
+  /* margin-left: 180px;  */
+}
+.popular-header h1 {
+  margin-left: 50px;
+}
+.popular-header h6 {
+  margin-top: -48px;
+  margin-left: 1286px;
+  size: ledger;
+  height: 12px;
+  font-size: 15px;
+  margin-bottom: 45px;
+}
+.Arrow-popular {
+  margin-left: 1366px;
+  margin-top: -60px;
+  margin-bottom: 12px;
+  /* margin-top: -1px; */
+  width: 33px;
+  /* margin-bottom: 33px; */
+}
+.Arrow-popular img {
+  width: 23px;
+  margin-top: 5px;
+}

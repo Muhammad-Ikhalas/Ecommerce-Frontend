@@ -1,0 +1,36 @@
+#person-icon {
+  --tw-bg-opacity: 1;
+  --tw-text-opacity: 1;
+  background-color: rgb(255 187 56 / var(--tw-bg-opacity));
+  color: rgb(34 34 34 / var(--tw-text-opacity));
+}
+.submit-btn {
+  background-color: black;
+}
+.link-color {
+  color: black;
+  padding-bottom: 100px;
+}
+.submit-btn:hover {
+  --tw-bg-opacity: 1;
+  --tw-text-opacity: 1;
+  background-color: rgb(255 187 56 / var(--tw-bg-opacity));
+  color: rgb(34 34 34 / var(--tw-text-opacity));
+  color: black;
+}
+.submit-btn {
+  --tw-bg-opacity: 1;
+  --tw-text-opacity: 1;
+  background-color: rgb(255 187 56 / var(--tw-bg-opacity));
+  color: rgb(34 34 34 / var(--tw-text-opacity));
+}
+#submit-button {
+  --tw-bg-opacity: 1;
+  --tw-text-opacity: 1;
+  background-color: rgb(255 187 56 / var(--tw-bg-opacity));
+  color: rgb(34 34 34 / var(--tw-text-opacity));
+}
+
+#login-label label {
+  color: black;
+}
